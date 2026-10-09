@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 (2026-10-09)
+
+- License moves from MIT to MIT-0. No attribution required. Copies taken
+  under 1.0.0 keep their MIT terms.
+
 ## 1.0.0 (2026-10-09)
 
 First public release.

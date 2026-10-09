@@ -107,4 +107,5 @@ quietly narrowed never passes for a complete one.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT-0 (MIT No Attribution). Use, change, and redistribute it however you
+like; no credit required. See [LICENSE](LICENSE).
